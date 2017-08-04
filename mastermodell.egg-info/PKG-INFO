@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: mastermodell
+Version: 0.1
+Summary: Class which stores the data of a mastermodell
+Home-page: http://github.com/
+Author: Thomas Lettau
+Author-email: thomas_lettau@gmx.de
+License: MIT
+Description: Mesolve_fast
+        ------------
+        
+        To use (with caution), simply do::
+        
+            >>> import funniest
+            >>> print funniest.joke()
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Beta
+Classifier: License :: 
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: mastermodall :: Sparse matrix integration

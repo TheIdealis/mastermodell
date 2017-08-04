@@ -1,0 +1,15 @@
+MANIFEST.in
+README.rst
+setup.py
+mastermodell/MasterS.py
+mastermodell.egg-info/PKG-INFO
+mastermodell.egg-info/SOURCES.txt
+mastermodell.egg-info/dependency_links.txt
+mastermodell.egg-info/not-zip-safe
+mastermodell.egg-info/requires.txt
+mastermodell.egg-info/top_level.txt
+mastermodell/cy/density.cpp
+mastermodell/cy/density.pyx
+mastermodell/cy/nicerdicer.cpp
+mastermodell/cy/nicerdicer.h
+mastermodell/cy/setup.py
